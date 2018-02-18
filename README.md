@@ -23,7 +23,7 @@ Just add
 
 ```javascript
 "require": {
-  "arthurkushman/wss": ">=1.3"  
+  "arthurkushman/wssc": ">=1.3"  
 }
 ```
 
@@ -34,7 +34,7 @@ OR
 perform command in shell
 
 ```bash
-$ composer require arthurkushman/wss
+$ composer require arthurkushman/wssc
 ```
 
 ### Implement Your WebSocket handler class - ex.:
